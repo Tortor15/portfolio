@@ -1,0 +1,19 @@
+*{
+    background-color: slategray;
+    color: white;
+    padding: 0.4em;
+    font-family: "Poppins", sans-serif;
+}
+h2{
+    margin: 3%;
+}
+footer{
+background-color: black;
+color:white;
+padding: 0.6em;
+margin: 0;
+
+}
+li a{
+    color:black;
+}
